@@ -15,8 +15,8 @@ body {
     position: relative;
     margin-right: auto;
     right: auto;
-    width: 108%;
-    left: -4%;
+    width: 100%;
+    left: 0%;
 }
 
 #content {
